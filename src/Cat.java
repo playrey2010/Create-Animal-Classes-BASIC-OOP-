@@ -1,7 +1,7 @@
 public class Cat extends Animal {
 
     public Cat() {
-        super();
+//        super();
         System.out.println("Now I am a Cat!");
     }
 

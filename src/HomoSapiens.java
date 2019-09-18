@@ -1,6 +1,6 @@
 public class HomoSapiens extends Animal {
     public HomoSapiens() {
-        super();
+//        super();
         System.out.println("A human is born. ");
     }
 

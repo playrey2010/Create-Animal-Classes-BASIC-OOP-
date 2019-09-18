@@ -1,7 +1,7 @@
 public class Dog extends Animal {
 
     public Dog() {
-        super();
+//        super();
         System.out.println("A puppy is born!");
     }
 
